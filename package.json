@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "deprecated-react-native-listview": "0.0.6",
     "firebase": "^7.14.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-base64": "0.0.2",
